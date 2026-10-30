@@ -79,7 +79,6 @@ Offline listening (when the internet drops) costs nothing.
 ## What leaves your computer
 
 - **Audio** is streamed to Deepgram while you listen online. With offline listening, audio stays on the computer.
-- **Short pieces of transcript** (about 45 words at a time) go to OpenAI to recognise verses and write notes.
 - **Licensed Bible versions** fetch one verse at a time from their provider.
 - Social posts go out only when you press Post. Your keys and tokens are stored in your user profile folder on your own computer.
 
